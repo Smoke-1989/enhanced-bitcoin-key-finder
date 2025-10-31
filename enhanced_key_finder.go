@@ -7,7 +7,6 @@ package main
 import (
 	"context"
 	cryptoRand "crypto/rand"
-	"encoding/hex"
 	"encoding/json"
 	"errors"
 	"flag"
